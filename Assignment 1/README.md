@@ -135,19 +135,7 @@ If you encounter issues:
 
 ---
 
-## 5. Problem set for practice
- 
-After setting up your environment, go to the online judge system and solve the required problems.
-
-🔗 [Problem set 01] (http://ejudge.kz/new-client?contest_id=701)
-
-📝 **Instructions**:
-- Login with the credentials provided by your instructor  
-👉 **[How to login](./lab-login-instructions.md)**
-- Solve and submit the assigned tasks
-- Submit only `.py` files that compile and run without errors
-
-## 6. Resources
+## 5. Resources
 
 - 📚 [Git Documentation](https://git-scm.com/doc)
 - 📚 [GitHub Guides](https://guides.github.com)
